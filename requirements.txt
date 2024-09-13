@@ -1,0 +1,5 @@
+reflex==0.5.10
+python-decouple
+curl_cffi
+bs4
+psycopg2-binary
